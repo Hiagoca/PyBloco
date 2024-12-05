@@ -20,7 +20,7 @@ body,
 body {
     background-color: #a0a0a0;
     background-attachment: fixed;
-    background-image: url('/static/img/bg01.png');
+    background-image: url('/static/img/bloco.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,7 +41,7 @@ a:hover {
 }
 
 #wrap>header {
-    background-color: black;
+    background-color: rgb(196, 179, 28);
 }
 
 #header {
